@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Morales</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🔭 I have 3 years of experience as a software developer. I’m currently working on **Seguros Caracas, Venezuela, as a Full-Stack Developer. My main stack consists of React, HTML, CSS, JavaScript, Node Js y bases de datos sql (Postgresql, oracleSQL, mySql).**
+- 🔭 I have 3 years of experience as a software developer. I’m currently working on **Seguros Caracas, Venezuela, as a Full-Stack Developer. My main stack consists of React, HTML, CSS, JavaScript, Node Js and SQL databases (Postgresql, oracleSQL, mySql).**
 
 - 👯 I’m looking to collaborate with companies on **challenging projects, as a freelancer or full-time worker.**
 
