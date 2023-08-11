@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlo Morales</h1>
+<h1 align="center">Hi 👋, I'm Carlos Morales</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on **Seguros Caracas as a Full-Stack Developer. Mi stack principal consiste en React, HTML, CSS, JavaScript, Node Js y bases de datos sql (Postgresql, oracleSQL, mySql).**
