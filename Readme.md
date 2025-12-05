@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Carlos Morales.</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🔭 I have 5 years of experience as a Full-Stack Software Developer.
+- 🔭 I have 6 years of experience as a Full-Stack Software Developer.
 - My main stack consists of React/Next, HTML, CSS, JavaScript, Node/Nest and SQL databases (Postgresql, oracleSQL).**
 
 - 👯 I’m looking to collaborate with companies on **challenging projects, as a freelancer or full-time worker.**
